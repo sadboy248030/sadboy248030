@@ -9,7 +9,6 @@
 
 ### Información Personal
 - **Nombre:** Alfonso Eduardo Manrique Diaz
-- **Correo Electrónico:** alfonso33md@gmail.com
 - **Ubicación:** Carabanchel
   </div>
 
@@ -63,19 +62,14 @@ Soy un estudiante apasionado de la programación en su primer año de Grado Supe
 
 ## Connect with Me
 <div align="left">
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
   <a href="https://discord.com/">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:example@gmail.com">
+  <a href="mailto:alfonso33md@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/">
