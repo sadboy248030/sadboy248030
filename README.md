@@ -2,15 +2,7 @@
 
 ## Hi 👋! My name is Alfonso Eduardo Manrique Diaz and I'm a programming student from Carabanchel.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-{
-  "prompt": "A programmer detailing code on a laptop with a cup of coffee next to the laptop. In the background, there's a beautiful landscape visible through a window, showing mountains or a lake. The name 'DAM' should be creatively integrated into the scene.",
-  "size": "1024x1024"
-}
 
 
 ## Currículum Vitae
