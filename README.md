@@ -73,8 +73,8 @@ Soy un estudiante apasionado de la programación en su primer año de Grado Supe
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="www.linkedin.com/in/alfonso-manrique-diaz-desarrollador-it
-height="35" alt="linkedin logo"  />
+    <img src="https://www.linkedin.com/in/alfonso-manrique-diaz-desarrollador-it/
+"height="35" alt="linkedin logo"  />
   </a>
 </div>
 
