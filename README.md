@@ -1,16 +1,11 @@
 # Presentación ✌️
 
-## Hi 👋! My name is Alfonso Eduardo Manrique Diaz and I'm a programming student.
+## Hi 👋! My name is Alfonso Manrique Diaz and I'm a programming student.
 
 
 
 
-## Currículum Vitae
-
-### Información Personal
-- **Nombre:** Alfonso Eduardo Manrique Diaz
-- **Ubicación:** Carabanchel
-  </div>
+## Currículum 
 
 ### Perfil
 Soy un estudiante apasionado de la programación en su primer año de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Me encanta explorar nuevas tecnologías y enfrentarme a desafíos que me permitan crecer profesionalmente.
