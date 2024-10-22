@@ -18,13 +18,14 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 - *Aún no tengo experiencia laboral relevante en el campo, pero estoy desarrollando proyectos académicos y personales que me están ayudando a aplicar mis conocimientos.*
 
 ### Proyectos Destacados
-1. **[Nombre del Proyecto Android]** (en curso)
-   - Descripción: Desarrollo de una aplicación Android utilizando Java y Android Studio, que integra bases de datos y servicios REST para la gestión de usuarios.
-   - Tecnologías: Java, SQLite, Retrofit.
-
-2. **[Nombre del Proyecto con Unity]** (en curso)
-   - Descripción: Videojuego en 2D desarrollado en Unity como parte de un proyecto académico, donde exploro la programación de física de objetos y lógica de colisiones.
-   - Tecnologías: Unity, C#.
+1. **[Producto Web]** (en curso actividad )
+   - Descripción: Es solo una actividad que lo que hace es comprar porductos y por logearte o crearte una cuenta
+   - Tecnologia: Firebase , Andorid(Java) no me dejaron usar Kotlin
+   
+3. **[Nombre del Proyecto con Unity]** (Proyecto de fin de curso (Grupal))
+   - Descripción: Todavia no lo tenemos claro .
+   - Tecnologías: Unity, C++, o algo más .
+   - Os aviser de las nuevas mejoras aquí.
 
 ### Habilidades Técnicas
 - **Lenguajes de Programación:**
@@ -61,7 +62,7 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 
 ### Intereses
 - Desarrollo de aplicaciones móviles y videojuegos.
-- Inteligencia Artificial y Machine Learning.
+- Inteligencia Artificial.
 - Innovación en el diseño de interfaces de usuario.
 
 ## Connect with Me
