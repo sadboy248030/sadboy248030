@@ -10,6 +10,8 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 ### Educación
 -**Grado Medio en Microsistemas Informaticos y redes**
 - iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2021 - 22/06/2023
+- Titulacíon
+  
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
   - iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2023 - Presente
 
@@ -28,7 +30,6 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 ### Habilidades Técnicas
 - **Lenguajes de Programación:**
   - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="30"/> Java
-  - <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" height="30"/> C#
   - <img src="https://img.icons8.com/color/48/000000/javascript.png" height="30"/> JavaScript
   - <img src="https://img.icons8.com/color/48/000000/html-5.png" height="30"/> HTML
   - <img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/> CSS
@@ -36,19 +37,20 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 - **Frameworks y Tecnologías:**
   - <img src="https://img.icons8.com/color/48/000000/android-os.png" height="30"/> Android (Java)
   - <img src="https://img.icons8.com/color/48/000000/unity.png" height="30"/> Unity
+  -   - <img src="https://img.icons8.com/color/48/000000/visaul-Studio.png" height="30"/> Visual Studio
   - <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="30"/> Spring Boot
 
 
 - **Bases de Datos:**
   - <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="30"/> MySQL
-  - <img src="https://img.icons8.com/color/48/000000/sqlite.png" height="30"/> SQLite
 
 - **Control de Versiones:**
   - <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" height="30"/> Git, GitHub
 
 ### Idiomas
 - **Español:** Nativo
-- **Inglés:** Intermedio
+- **Castellano** Nativo
+- **Inglés:** bajo |el motivo: me cuestas expresarme y entenderlo |
 
 ### Certificaciones
 - **Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes**
