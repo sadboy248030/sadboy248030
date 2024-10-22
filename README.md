@@ -2,7 +2,7 @@
 
 ## Hi 👋! My name is Alfonso Manrique Diaz and I'm a programming student.
 
-## Currículum 
+## Currículum
 
 ### Perfil
 Soy un estudiante apasionado de la programación, actualmente en mi segundo año de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta explorar nuevas tecnologías y enfrentarme a desafíos que me permitan crecer profesionalmente.
