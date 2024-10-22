@@ -19,8 +19,12 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 
 ### Proyectos Destacados
 1. **[Producto Web]** (en curso actividad )
-   - Descripción: Es solo una actividad que lo que hace es comprar porductos y por logearte o crearte una cuenta
-   - Tecnologia: Firebase , Andorid(Java) no me dejaron usar Kotlin
+   - Descripción: "Producto Web" es una actividad que simula un sistema de compra de productos. Permite a los usuarios registrarse,
+     iniciar sesión y realizar compras de productos.
+     La actividad se centra en la creación de cuentas y la gestión de sesiones de usuario, proporcionando una experiencia básica de e-commerce nada más.
+
+   - Tecnología: Firebase y Android (Java). No se permitió el uso de Kotlin.
+
    
 3. **[Nombre del Proyecto con Unity]** (Proyecto de fin de curso (Grupal))
    - Descripción: Todavia no lo tenemos claro .
