@@ -10,7 +10,6 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 ### Educación
 -**Grado Medio en Microsistemas Informaticos y redes**
 - iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2021 - 22/06/2023
-- Titulacíon
   
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
   - iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2023 - Presente
