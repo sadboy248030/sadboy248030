@@ -8,8 +8,8 @@
 Soy un estudiante apasionado de la programación, actualmente en mi segundo año de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta explorar nuevas tecnologías y enfrentarme a desafíos que me permitan crecer profesionalmente.
 
 ### Educación
--**Grado Medio en Microsistemas Informáticos y Redes**
-- iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2021 - 22/06/2023
+- **Grado Medio en Microsistemas Informáticos y Redes**
+  - iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2021 - 22/06/2023
   
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
   - iFP. Innovación en Formación Profesional, Ciudad Lineal, 12/09/2023 - Presente
