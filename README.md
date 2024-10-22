@@ -37,7 +37,8 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
 - **Frameworks y Tecnologías:**
   - <img src="https://img.icons8.com/color/48/000000/android-os.png" height="30"/> Android (Java)
   - <img src="https://img.icons8.com/color/48/000000/unity.png" height="30"/> Unity
-  -   - <img src="https://img.icons8.com/color/48/000000/visaul-Studio.png" height="30"/> Visual Studio
+  - <img src="https://img.icons8.com/color/48/000000/visual-studio.png" height="30"/> Visual Studio
+  - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="30"/> Visual Studio Code
   - <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="30"/> Spring Boot
 
 
