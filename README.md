@@ -28,7 +28,7 @@ Soy un estudiante apasionado de la programación, actualmente en mi segundo año
    
 3. **[Nombre del Proyecto con Unity]** (Proyecto de fin de curso (Grupal))
    - Descripción: Todavia no lo tenemos claro .
-   - Tecnologías: Unity, C++, o algo más .
+   - Tecnologías: Unity, C#, o algo más .
    - Os aviser de las nuevas mejoras aquí.
 
 ### Habilidades Técnicas
