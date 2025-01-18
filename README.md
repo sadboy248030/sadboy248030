@@ -1,6 +1,6 @@
 # Presentación ✌️
 
-## Hi 👋! My name is Alfonso Manrique Diaz and I'm a programming student.
+## Hi 👋! My name is Alfonso Manrique Diaz.
 
 ## Currículum
 
