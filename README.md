@@ -217,7 +217,6 @@ interests = {
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfonso_Manrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-manrique-diaz-desarrollador-it/)
-  [![Email](https://img.shields.io/badge/Email-alfonso33md@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonso33md@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Mi_Web-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sadboy248030.github.io/alfonso.github.io/)
   [![GitHub](https://img.shields.io/badge/GitHub-sadboy248030-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadboy248030)
   
@@ -225,13 +224,7 @@ interests = {
 
 ---
 
-## 💡 Quote
 
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  
-</div>
 
 ---
 
